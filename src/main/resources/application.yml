@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: file:/d:/ramon/git/configuration
+          uri: file:/d:/dev/microservicos/configuration
